@@ -31,3 +31,12 @@ Thumbs.db
 
 # Keep: config.py, model.py, data_loader.py, requirements.txt, README.md, LICENSE,
 #       data/processed/, data/provenance.json, results/, figures/, report/, presentation.pptx
+# Files you chose to exclude
+EVALUATION.md
+RUN_IN_VSCODE.md
+STEP0_PLAN.md
+STEP2_SANITY_CHECK.md
+build_report.py
+presentation.pptx
+report/report.docx
+report/report_RUB.docx
