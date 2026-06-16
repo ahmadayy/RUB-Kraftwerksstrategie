@@ -299,7 +299,7 @@ every result are robust; some **magnitudes** are intentionally rough.
 
 ## 👤 Author & license
 
-**Author:** Muhammad Ahmad Khan — Ruhr-Universität Bochum group project, June 2026.
+**Author:** Muhammad Ahmad Khan — Demand and Supply in Energy Markets Project, Ruhr-Universität Bochum, June 2026.
 
 **Data:** © respective providers; Energy-Charts data under **CC BY 4.0**.
 **Code:** released under the **MIT License** — free to use with attribution.
