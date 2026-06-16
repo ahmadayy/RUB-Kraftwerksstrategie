@@ -272,7 +272,7 @@ every result are robust; some **magnitudes** are intentionally rough.
 | File | What it is |
 |---|---|
 | `report/report.docx` | Full written report — literature review + model evaluation |
-| `presentation.pptx` | RUB-themed slide deck (Part 1 literature, Part 2 model) |
+| `presentation.pptx` | Slide deck (Part 1 literature, Part 2 model) |
 
 ---
 
