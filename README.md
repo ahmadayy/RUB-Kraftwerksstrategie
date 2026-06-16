@@ -4,7 +4,7 @@
 
 ### An hourly PyPSA dispatch model of Germany's 2030 capacity remuneration mechanism
 
-**Group project · Ruhr-Universität Bochum (RUB) · June 2026**
+**Demand and Supply in Energy Markets Project · Ruhr-Universität Bochum (RUB) · June 2026**
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyPSA](https://img.shields.io/badge/PyPSA-0.29-1f77b4)](https://pypsa.org/)
