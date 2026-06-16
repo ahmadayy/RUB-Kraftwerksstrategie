@@ -12,8 +12,9 @@ env/
 # ─── Secrets — never commit real tokens ───
 .env
 
-# ─── Large cached raw API downloads (re-creatable via data_loader.py) ───
+# ─── Data (Re-creatable via data_loader.py; do not commit large files) ───
 data/raw/
+data/processed/
 
 # ─── OS / editor junk ───
 .DS_Store
@@ -29,9 +30,7 @@ Thumbs.db
 *.rar
 *.zip
 
-# Keep: config.py, model.py, data_loader.py, requirements.txt, README.md, LICENSE,
-#       data/processed/, data/provenance.json, results/, figures/, report/, presentation.pptx
-# Files you chose to exclude
+# ─── Specific project files you chose to exclude ───
 EVALUATION.md
 RUN_IN_VSCODE.md
 STEP0_PLAN.md
@@ -41,3 +40,4 @@ presentation.pptx
 report/report.docx
 report/report_RUB.docx
 DATA_VERIFICATION.md
+Model_Explanation_PlainEnglish.docx
