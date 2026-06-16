@@ -1,0 +1,33 @@
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ─── Virtual environment (recreated with: pip install -r requirements.txt) ───
+venv/
+.venv/
+env/
+
+# ─── Secrets — never commit real tokens ───
+.env
+
+# ─── Large cached raw API downloads (re-creatable via data_loader.py) ───
+data/raw/
+
+# ─── OS / editor junk ───
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ─── Office temporary lock files ───
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# ─── Archives ───
+*.rar
+*.zip
+
+# Keep: config.py, model.py, data_loader.py, requirements.txt, README.md, LICENSE,
+#       data/processed/, data/provenance.json, results/, figures/, report/, presentation.pptx
