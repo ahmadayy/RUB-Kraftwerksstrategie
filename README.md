@@ -10,6 +10,7 @@
 [![PyPSA](https://img.shields.io/badge/PyPSA-0.29-1f77b4)](https://pypsa.org/)
 [![Solver: HiGHS](https://img.shields.io/badge/Solver-HiGHS-2ca02c?logo=apache&logoColor=white)](https://highs.dev/)
 [![Data](https://img.shields.io/badge/Data-Energy--Charts%20(SMARD%2FENTSO--E)-orange)](https://www.energy-charts.info)
+[![Reproducible](https://img.shields.io/badge/Reproducible-2%20commands-success)](#-setup--how-to-run)
 [![License](https://img.shields.io/badge/Code-MIT-yellow.svg)](#-author--license)
 
 *Does adding **10 GW of hydrogen-ready gas** actually change German electricity prices, CO₂ emissions
